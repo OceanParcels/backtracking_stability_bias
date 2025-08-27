@@ -1,5 +1,5 @@
 # Stability Bias in Lagrangian Backtracking in Divergent Flows
-Code accompanying the manuscript "Stability Bias in Lagrangian Backtracking in Divergent Flows" (authors: Daan Reijnders, Michael C. Denes, Siren Rühs, Øyvind Breivik, Tor Nordam and Erik van Sebille).
+Code accompanying the manuscript "Stability Bias in Lagrangian (Back)tracking in Divergent Flows" (authors: Daan Reijnders, Michael C. Denes, Siren Rühs, Øyvind Breivik, Tor Nordam and Erik van Sebille).
 
 ## Directory structure
  - `atlantic`: code for the experiments in the Atlantic sector of the [PSY4V3R1 product from Mercator Ocean International](https://www.mercator-ocean.eu/en/ocean-science/operational-systems/operational-systems/). Data is presumed to be locally available. `moi_run_divergence_Atlantic.py` provides the particle simulations (see also the `jobs` directory), and two of the notebooks contain the analysis for the FB and BF experiments (see manuscript). 
