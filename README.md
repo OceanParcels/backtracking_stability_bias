@@ -1,4 +1,4 @@
-# Stability Bias in Lagrangian Backtracking in Divergent Flows
+# Stability Bias in Lagrangian (Back)tracking in Divergent Flows
 Code accompanying the manuscript "Stability Bias in Lagrangian (Back)tracking in Divergent Flows" (authors: Daan Reijnders, Michael C. Denes, Siren Rühs, Øyvind Breivik, Tor Nordam and Erik van Sebille).
 
 ## Directory structure
